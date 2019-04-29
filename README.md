@@ -1,2 +1,2 @@
 # test
-test for next peoject
+test for next project
